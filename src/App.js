@@ -21,7 +21,7 @@ function App() {
           </a>
           <br />
           <a
-            href="https://github.com/caro-echevarria/react-weather-app-final"
+            href="https://github.com/caro-echevarria/dictionary-react"
             target="_blank"
             rel="noreferrer"
           >
@@ -29,7 +29,7 @@ function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://competent-brown-05cd48.netlify.app/"
+            href="https://sad-bell-670b33.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
