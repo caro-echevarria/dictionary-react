@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import "./Search.css";
 
-export default function Dictionary() {
+export default function Search() {
   let [keyword, setKeyword] = useState("");
 
   function handleResponse(response) {
