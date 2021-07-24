@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
+        <header>WORDS FOR EVERYTHING</header>
         <Search />
         <footer>
           <small>

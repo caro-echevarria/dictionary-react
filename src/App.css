@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+header {
+  margin: 30px 0;
+}
+
 body {
   text-align: center;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
@@ -10,7 +14,7 @@ body {
 
 footer {
   text-align: center;
-  margin-top: 5px;
+  margin: 30px 0;
 }
 
 small a {
