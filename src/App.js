@@ -1,4 +1,4 @@
-import Search from "./Search";
+import Dictionary from "./Dictionary";
 import "./App.css";
 
 function App() {
@@ -6,9 +6,9 @@ function App() {
     <div className="App">
       <div className="container">
         <header>
-          <h1>WORDS FOR EVERYTHING</h1>
+          <h1>Words for everything</h1>
         </header>
-        <Search />
+        <Dictionary defaultKeyword="story" />
         <footer>
           <small>
             Coded by{" "}

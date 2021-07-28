@@ -1,16 +1,13 @@
-.App {
-  text-align: center;
+body {
+  background: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 header {
-  margin: 30px 0;
-  color: rgb(0, 124, 185);
-}
-
-body {
   text-align: center;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin: 30px 0;
+  color: rgb(85, 133, 181);
 }
 
 footer {
