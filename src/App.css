@@ -4,7 +4,7 @@
 }
 
 body {
-  background: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+  background: #f1e8a7;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
@@ -22,12 +22,12 @@ footer {
 
 small a {
   text-decoration: none;
-  color: rgb(115, 177, 193);
+  color: #61b292;
   font-weight: bolder;
 }
 
 small a:hover {
   text-decoration: none;
-  color: rgb(115, 177, 193);
+  color: #61b292;
   font-weight: bolder;
 }
