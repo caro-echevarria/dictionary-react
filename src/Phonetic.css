@@ -2,6 +2,10 @@
   margin: 20px 0;
 }
 
+audio {
+  color: #3dbdc2;
+}
+
 .Phonetic a {
   border: 1px solid #3dbdc2;
   text-decoration: none;
