@@ -23,13 +23,13 @@ input[type="search"]:hover {
   font-size: 18px;
   margin-left: 5px;
   border-radius: 4px;
-  background-color: white;
-  color: #61b292;
+  background-color: #61b292;
+  color: white;
 }
 
 #search-button:hover {
-  color: #f4f6f6;
-  background-color: #61b292;
+  color: #61b292;
+  background-color: white;
 }
 
 section {
