@@ -2,27 +2,6 @@
   margin: 20px 0;
 }
 
-audio {
-  color: #3dbdc2;
-}
-
-.Phonetic a {
-  border: 1px solid #3dbdc2;
-  text-decoration: none;
-  padding: 8px 15px;
-  font-size: 13px;
-  margin-right: 10px;
-  font-weight: bold;
-  border-radius: 20px;
-  transition: all 150ms ease-in-out;
-  color: #3dbdc2;
-}
-
-.Phonetic a:hover {
-  background: #3dbdc2;
-  color: white;
-}
-
 .Phonetic .text {
   opacity: 0.5;
   font-weight: bold;
