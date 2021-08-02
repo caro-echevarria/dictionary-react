@@ -16,7 +16,7 @@ body {
 header {
   text-align: center;
   margin: 5px 0;
-  color: rgb(85, 133, 181);
+  color: #085f63;
 }
 
 footer {
@@ -26,12 +26,12 @@ footer {
 
 small a {
   text-decoration: none;
-  color: #61b292;
+  color: #3dbdc2;
   font-weight: bolder;
 }
 
 small a:hover {
   text-decoration: none;
-  color: #61b292;
+  color: #3dbdc2;
   font-weight: bolder;
 }

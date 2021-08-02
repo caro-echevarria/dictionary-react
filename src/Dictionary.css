@@ -3,7 +3,7 @@ form {
 }
 
 input[type="search"] {
-  border: 1px solid #61b292;
+  border: 1px solid #3dbdc2;
   background-color: white;
   border-radius: 4px;
   padding: 4px;
@@ -14,28 +14,30 @@ input[type="search"] {
 }
 
 input[type="search"]:hover {
-  border: 1px solid #61b292;
+  border: 1px solid #3dbdc2;
 }
 
 #search-button {
-  border: 1px solid #61b292;
+  border: 1px solid #3dbdc2;
   padding: 4px 10px;
   font-size: 18px;
   margin-left: 5px;
   border-radius: 4px;
-  background-color: #61b292;
+  background-color: #3dbdc2;
   color: white;
 }
 
 #search-button:hover {
-  color: #61b292;
+  color: #3dbdc2;
   background-color: white;
 }
 
 section {
-  background: white;
   padding: 30px;
-  border-radius: 6px;
-  box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
-  margin: 20px 0;
+  border-radius: 8px;
+  box-shadow: 0px 10px 10px rgba(0 0 0 / 10%);
+  margin: 20px;
+  float: left;
+  width: 96%;
+  background: white;
 }
